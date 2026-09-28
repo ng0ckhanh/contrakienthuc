@@ -2,5 +2,7 @@
   "name": "Contra Kiến Thức",
   "description": "Trò chơi hành động Contra bắn súng kết hợp vượt chướng ngại vật trắc nghiệm tri thức đa chủ đề.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
